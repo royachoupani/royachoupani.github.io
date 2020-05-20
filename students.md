@@ -8,7 +8,7 @@ title: Students
 
 ### MS Students
 - Selim Surucu: Big data analytics on Twitter data
-- Betul Bayrak: Semantic web, linked data prediction
+- Betul Bayrak: Linked prediction
 - Kutlu Erman Ozgil: Question answering using AI
 - Hatice Nazli Kus: Major recommendation using AI
 - Yusuf Kursat Tuncel: Zero touch networking
