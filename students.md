@@ -16,5 +16,7 @@ title: Students
 - 
 
 ### Graduted Students
-- 
-- 
+- Mehmet Murat Erol
+- Onur Goker
+- Nazli Nazli
+
