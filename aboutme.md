@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Assistant Professor of Computer Science
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Computer Science professor at [Cankaya University](http://cankaya.edu.tr)'s Computer Engineering Department. I recevied my PhD in Computer Science from [TU Delft](https://www.tudelft.nl) in Netherlands. I have worked with Professor [Stephan Wong](https://www.tudelft.nl/eemcs/the-faculty/departments/quantum-computer-engineering/computer-engineering/staff/stephan-wong/). My research and teaching insterests are in:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Multimedia Computing
+- Machine Learning
+- Artificial Intelligence
+- Database Systems
