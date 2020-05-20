@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Roya Choupani
 subtitle: Assistant Professor of Computer Science
 ---
 
