@@ -12,11 +12,15 @@ author: Roya Choupani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "http://royachoupani.github.io"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "http://royachoupani.github.io"
+  Teaching: "teaching"
+  Students: "students"
+  Publications: "https://scholar.google.com/citations?user=howN9EkAAAAJ&hl=en&oi=ao"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  
 
 # --- Logo --- #
 
