@@ -35,6 +35,8 @@ round-avatar: true
 # then specify the following parameter
 # title-img: "/assets/img/roya.jpg"
 
+bigimg: "/assets/img/roya.jpg"
+
 # --- Footer options --- #
 
 # Select the social network links that you want to show in the footer.
