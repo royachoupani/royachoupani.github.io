@@ -4,7 +4,7 @@
 title: Roya Choupani
 
 # Short description of your site
-description: Personal Web Page
+description: Roya Choupani's personal web page
 
 # Your name to show in the footer
 author: Roya Choupani
@@ -12,8 +12,8 @@ author: Roya Choupani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "http://royachoupani.github.io"
   About Me: "aboutme"
+  Posts: "http://royachoupani.github.io"
   Teaching: "teaching"
   Students: "students"
   Publications: "https://scholar.google.com/citations?user=howN9EkAAAAJ&hl=en&oi=ao"
