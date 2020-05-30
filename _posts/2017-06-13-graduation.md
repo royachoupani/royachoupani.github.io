@@ -7,7 +7,7 @@ tags: [research, talk]
 
 Recevied my PhD in Computer Science from [TU Delft](https://www.tudelft.nl/en/).
 
-<img src="/assets/img/phd_defense_2017_8.PNG"/>
+<img src="/assets/img/phd_defense_2017_8.png"/>
 
 <img src="/assets/img/phd_defense_2017_1.jpg"/>
 
