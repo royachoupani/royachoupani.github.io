@@ -4,7 +4,7 @@ title: Machine Learning Course
 subtitle: New course for graduates
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [teaching]
 comments: true
 ---
 
