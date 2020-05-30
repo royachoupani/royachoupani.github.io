@@ -19,11 +19,12 @@ title: Students
 - Engin Tureli: Ontology-based product categorization using machine learning
 
 ### Current Undergraduate Project Students
-- [Brain Tumor Detection from MR Images Using Machine Learning](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Image-Analysis-for-the-Classification-of-Brain-Tumor-Location-on-MR-Images/wiki)
-- [Spam SMS Detection](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Spam-SMS-Detection/wiki)
+- [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection)
+- [Spam SMS Detection](https://spamsmsdetection.wordpress.com)
 - [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com)
 - [Cook Hub](https://cookhubb.wordpress.com)
 - [AI Assisted Customer Support](https://cankayauniversity.github.io/ceng-407-408-2019-2020-AI-Customer-Support/)
+
 
 ### Graduted MS Students
 - Mehmet Murat Erol - MS Thesis: “Temporal Video Segmentation”, 2019
