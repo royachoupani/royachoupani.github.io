@@ -3,22 +3,29 @@ layout: page
 title: Students
 ---
 
-### PhD Students
+### Current PhD Students
 - Hamza Haruna
 
-### MS Students
+### Current MS Students
 - Selim Surucu: Big data analytics on Twitter data
 - Betul Bayrak: Link prediction
 - Kutlu Erman Ozgil: Question answering using AI
 - Hatice Nazli Kus: Major recommendation using AI
 - Yusuf Kursat Tuncel: Zero touch networking
 - Baransel Saginda: Anomaly detection in system logs
+- Sedat Akel: Optimizing the Training Algorithms of Machine Learning using GAN Networks
+- Tarkan Eyerci: Product defect detection from reviews using machine learning
+- Hacer Dogan: Identifying and removing objects from video frames
+- Engin Tureli: Ontology-based product categorization using machine learning
 
-### Undergraduate Project Students
-- 
-- 
+### Current Undergraduate Project Students
+- [Brain Tumor Detection from MR Images Using Machine Learning](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Image-Analysis-for-the-Classification-of-Brain-Tumor-Location-on-MR-Images/wiki)
+- [Spam SMS Detection](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Spam-SMS-Detection/wiki)
+- [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com)
+- [Cook Hub](https://cookhubb.wordpress.com)
+- [AI Assisted Customer Support](https://cankayauniversity.github.io/ceng-407-408-2019-2020-AI-Customer-Support/)
 
-### Graduted Students
+### Graduted MS Students
 - Mehmet Murat Erol - MS Thesis: “Temporal Video Segmentation”, 2019
 - Mustafa Karasolak - MS Thesis: “Matching composite drawings and mugshot photographs to determine
 the identity of the person”, 2019
