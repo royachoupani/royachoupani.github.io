@@ -13,10 +13,10 @@ title: Students
 - Hatice Nazli Kus: Student performance prediction using machine learning
 - Yusuf Kursat Tuncel: Zero touch networking
 - Baransel Saginda: Anomaly detection in system logs
+- Engin Tureli: Ontology-based product categorization using machine learning
 - Sedat Akel: Optimizing the Training Algorithms of Machine Learning using GAN Networks
 - Tarkan Eyerci: Product defect detection from reviews using machine learning
 - Hacer Dogan: Identifying and removing objects from video frames
-- Engin Tureli: Ontology-based product categorization using machine learning
 
 ### Current Undergraduate Project Students
 - [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
@@ -24,7 +24,8 @@ title: Students
 - [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com) (Busra, Zehra)
 - [Cook Hub](https://cookhubb.wordpress.com) (Evrim, Batuhan, Tolga, Didem)
 - [AI Assisted Customer Support](https://cankayauniversity.github.io/ceng-407-408-2019-2020-AI-Customer-Support/) (Alperen, Cavid, Alp, Atakan)
-
+- [Rad.io](https://rad-io-app.github.io) (Talha, Mehmet, Omar, Berkay)
+- [Skin Cancer Detection](https://mervetalakaci.github.io/app-Dermis/) (Elif, Merve, Ilayda, Deniz)
 
 ### Graduted MS Students
 - Mehmet Murat Erol - MS Thesis: “Temporal Video Segmentation”, 2019
