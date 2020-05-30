@@ -19,11 +19,11 @@ title: Students
 - Engin Tureli: Ontology-based product categorization using machine learning
 
 ### Current Undergraduate Project Students
-- [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection)
-- [Spam SMS Detection](https://spamsmsdetection.wordpress.com)
-- [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com)
-- [Cook Hub](https://cookhubb.wordpress.com)
-- [AI Assisted Customer Support](https://cankayauniversity.github.io/ceng-407-408-2019-2020-AI-Customer-Support/)
+- [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
+- [Spam SMS Detection](https://spamsmsdetection.wordpress.com) (Emre, Sarper, Muazzez, Berkcan)
+- [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com) (Busra, Zehra)
+- [Cook Hub](https://cookhubb.wordpress.com) (Evrim, Batuhan, Tolga, Didem)
+- [AI Assisted Customer Support](https://cankayauniversity.github.io/ceng-407-408-2019-2020-AI-Customer-Support/) (Alperen, Cavid, Alp, Atakan)
 
 
 ### Graduted MS Students
