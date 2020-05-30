@@ -10,7 +10,7 @@ title: Students
 - Selim Surucu: Big data analytics on Twitter data
 - Betul Bayrak: Link prediction
 - Kutlu Erman Ozgil: Question answering using AI
-- Hatice Nazli Kus: Major recommendation using AI
+- Hatice Nazli Kus: Student performance prediction using machine learning
 - Yusuf Kursat Tuncel: Zero touch networking
 - Baransel Saginda: Anomaly detection in system logs
 - Sedat Akel: Optimizing the Training Algorithms of Machine Learning using GAN Networks
