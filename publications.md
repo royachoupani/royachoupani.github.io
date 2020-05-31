@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-- [Google Scholar](https://scholar.google.com/citations?user=howN9EkAAAAJ&hl=en&oi=ao)
-- [ResearchGate](https://www.researchgate.net/profile/Roya_Choupani)
+- <a href="https://scholar.google.com/citations?user=howN9EkAAAAJ&hl=en&oi=ao"  target="_blank">Google Scholar</a>
+- <a href="https://www.researchgate.net/profile/Roya_Choupani" target="_blank">ResearchGate</a>
 
 ### Journal Papers
 
