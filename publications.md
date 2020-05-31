@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=howN9EkAAAAJ&hl=en&oi=ao)
+
 ### Journal Papers
 
 1.	Mustafa Karasolak, Roya Choupani (2019), “Mugshot Matching via Generation from Sketches using Convolutional Neural Networks”, International Journal of Multimedia and Image Processing (accepted)
