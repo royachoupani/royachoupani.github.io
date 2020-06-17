@@ -10,7 +10,7 @@ title: Publications
 
 1.	Mohanad Gashot, Roya Choupani (2019), “Review of Video Summarization Techniques”, Romanian Journal of Information Science and Technology (submitted)
 2.	Mustafa Nahedh, Roya Choupani (2019) “Offline Video Stabilization Using Artificial Neural Network”, Gazi University Polytechnic Journal (submitted)
-3.	Mustafa Karasolak, Roya Choupani (2019), “Mugshot Matching via Generation from Sketches using Convolutional Neural Networks”, International Journal of Multimedia and Image Processing, 9(1):459-465, DOI: 10.20533/ijmip.2042.4647.2019.0057
+3.	Mustafa Karasolak, Roya Choupani (2019), “Face Photograph Recognition via Generation from Sketches using Convolutional Neural Networks”, International Journal of Multimedia and Image Processing, 9(1):459-465, DOI: 10.20533/ijmip.2042.4647.2019.0057 [pdf](https://infonomics-society.org/wp-content/uploads/Face-Photograph-Recognition-via-Generation-from-Sketches.pdf)
 4.	Choupani, R., Wong, S., & Tolun, M. (2014). Multiple description coding for SNR scalable video transmission over unreliable networks. Multimedia Tools and Applications, 69(3), 843–858. (SCI)
 5.	Choupani, R., Wong, S., & Tolun, M. (2014). Spatial multiple description coding for scalable video streams. International Journal of Digital Multimedia Broadcasting, 2014.
 6.	Choupani, R., Wong, S., & Tolun, M. R. (2012). Unbalanced multiple description wavelet coding for scalable video transmission. Journal of Electronic Imaging, 21(4), 043006 (SCI)
