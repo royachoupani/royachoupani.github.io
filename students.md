@@ -17,6 +17,7 @@ title: Students
 - Sedat Akel: Optimizing the Training Algorithms of Machine Learning using GAN Networks
 - Tarkan Eyerci: Product defect detection from reviews using machine learning
 - Hacer Dogan: Identifying and removing objects from video frames
+- Omer Sarikaya: Cryptocurrency price prediction
 
 ### Current Undergraduate Project Students
 - [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
