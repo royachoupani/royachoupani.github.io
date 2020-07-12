@@ -12,3 +12,5 @@ I am a Computer Science professor at [Cankaya University](http://www.cankaya.edu
 - Machine Learning
 - Artificial Intelligence
 - Database Systems
+
+<center><img src="/assets/img/book2017.jpg"/></center>
