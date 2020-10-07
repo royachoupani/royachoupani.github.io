@@ -13,6 +13,7 @@ I am a Computer Science professor at [Cankaya University](http://www.cankaya.edu
 - Artificial Intelligence
 - Database Systems
 
+<b>Contact</b><br/>
 Cankaya University<br/>
 Department of Computer Engineering<br/>
 royachoupani @gmail.com<br/>
