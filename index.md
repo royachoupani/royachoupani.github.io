@@ -13,9 +13,9 @@ I am a Computer Science professor at [Cankaya University](http://www.cankaya.edu
 - Artificial Intelligence
 - Database Systems
 
-Cankaya University
-Department of Computer Engineering
-royachoupani @gmail.com
+Cankaya Universitye<br/>
+Department of Computer Engineering<br/>
+royachoupani @gmail.com<br/>
 
 <center><img src="/assets/img/book2017.jpg"/></center>
 
