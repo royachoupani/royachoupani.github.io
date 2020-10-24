@@ -7,12 +7,9 @@ title: Students
 - Hamza Haruna
 
 ### Current MS Students
-- Selim Surucu: Big data analytics on Twitter data
-- Betul Bayrak: Link prediction
 - Kutlu Erman Ozgil: Question answering using AI
 - Hatice Nazli Kus: Student performance prediction using machine learning
 - Yusuf Kursat Tuncel: Zero touch networking
-- Baransel Saginda: Anomaly detection in system logs
 - Engin Tureli: Ontology-based product categorization using machine learning
 - Sedat Akel: Optimizing the Training Algorithms of Machine Learning using GAN Networks
 - Tarkan Eyerci: Product defect detection from reviews using machine learning
@@ -20,6 +17,8 @@ title: Students
 - Omer Sarikaya: Cryptocurrency price prediction
 
 ### Current Undergraduate Project Students
+- AirBnB Price Prediction (Melisa Yildiz, Selin Kaya, Rana Gurcu Deliomeroglu, Merve Karakaya)
+- Sentiment Analysis of the Feedback from Airplane Passengers (Merve, Irem)
 - [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
 - [Spam SMS Detection](https://spamsmsdetection.wordpress.com) (Emre, Sarper, Muazzez, Berkcan)
 - [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com) (Busra, Zehra)
@@ -29,6 +28,9 @@ title: Students
 - [Skin Cancer Detection](https://mervetalakaci.github.io/app-Dermis/) (Elif, Merve, Ilayda, Deniz)
 
 ### Graduted MS Students
+- Baransel Saginda - MS Thesis: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
+- Selim Surucu - MS Thesis: "Measuring Political Polarization Using Big Data: The Case of Turkish Elections", 2020
+- Betul Bayrak - MS Thesis: "Evaluation of Graph Embedding-based Reasoning Over Knowledge Graphs", 2020
 - Mehmet Murat Erol - MS Thesis: “Temporal Video Segmentation”, 2019
 - Mustafa Karasolak - MS Thesis: “Matching composite drawings and mugshot photographs to determine
 the identity of the person”, 2019
