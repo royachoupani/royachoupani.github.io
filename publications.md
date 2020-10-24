@@ -17,7 +17,9 @@ title: Publications
 
 ### Conference Papers
 1.	Inas Al-Kamachy, Reza Hassanpour, Roya Choupani (2020), “Classification of Diabetic Retinopathy using Pre-Trained Deep Learning Models”, ICASSP 2020 (submitted)
-2.	Hamza Haruna Mohammed, Erdogan Dogdu, Roya Choupani and Tomiya Zarbega (2020) “Distributed Query Processing and Reasoning over Linked Big Data”, IEEE International Conference on Semantic Computing 2020 (submitted)
+2.	Hamza Haruna Mohammed, Erdogan Dogdu, Roya Choupani and Tomiya Zarbega (2020) “Distributed Query Processing and Reasoning over Linked Big Data”, IEEE International Conference on Big Data 2020 (accepted)
+3.  Betul Bayrak, Roya Choupani, Erdogan Dogdu (2020), “Link Prediction in Knowledge Graphs with Numeric Triples Using Clustering”, IEEE International Conference on Big Data (accepted)
+3.  Hamza Haruna Mohammad, Erdogan Dogdu, Abdul Kadir Gorur, Roya Choupani (2020), “Multi-Label Classification of Text Documents Using Deep Learning”, IEEE International Conference on Big Data (accepted)
 3.	Merve Duman, Roya Choupani, Faris Serdar Tasel (2019), “Automatic Identification and Measurement of Antibiogram Analysis”, 9th International Conference on Digital Image Processing and Vision (ICDIPV 2020).
 4.	Onur Göker, Nazli Nazli, Mehmet Murat Erol, Roya Choupani, Erdogan Dogdu (2018), “A Robust Watermarking Scheme Over Quadrant Medical Image in Discrete Wavelet Transform Domain”, 2018 5th International Conference on Control, Decision and Information Technologies (CoDIT’18).
 5.	Reza Hassanpour, Erdogan Dogdu, Roya Choupani, Onur Goker, and Nazli Nazli, “Phishing e-mail detection by using deep learning algorithms”, Proc. of the ACM South East Conference 2018.
