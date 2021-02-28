@@ -4,14 +4,14 @@ title: Research
 # subtitle: 
 ---
 
-### <span style="color:red">Artificial Intelligence and Machine Learning</span>
+### <span style="color:purple">Artificial Intelligence and Machine Learning</span>
 
 #### Courses
 - [CENG 466: Artificial Intelligence](http://ceng466.cankaya.edu.tr/)
 - [CENG 621: Machine Learning](http://ceng621.cankaya.edu.tr/)
 
 #### MS Thesis Students Supervised
-- Baransel Saginda - <span style="color:red">MS Thesis</span>: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
+- Baransel Saginda - MS Thesis</span>: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
 - Selim Surucu - MS Thesis: "Measuring Political Polarization Using Big Data: The Case of Turkish Elections", 2020
 - Betul Bayrak - MS Thesis: "Evaluation of Graph Embedding-based Reasoning Over Knowledge Graphs", 2020
 - Hamza Haruna Mohammed - MS Thesis: “Multi-label classification of text document using deep
@@ -19,7 +19,7 @@ learning”, 2019
 - Nazlı Nazlı - MS Thesis: “Analysis of machine learning-based spam filtering techniques”, 2018
 - Onur Goker - MS Thesis: “Spam filtering using big data and deep learning”, 2018
 
-### Mulltimedia Computing
+### <span style="color:purple">Mulltimedia Computing</span>
 
 #### Courses
 - [CENG 460: Introduction to Multimedia Computing](http://ceng460.cankaya.edu.tr)
