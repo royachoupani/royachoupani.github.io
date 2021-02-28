@@ -11,7 +11,7 @@ title: Research
 - [CENG 621: Machine Learning](http://ceng621.cankaya.edu.tr/)
 
 #### MS Thesis Students Supervised
-- Baransel Saginda - MS Thesis: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
+- Baransel Saginda - <span style="color:red">MS Thesis</span>: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
 - Selim Surucu - MS Thesis: "Measuring Political Polarization Using Big Data: The Case of Turkish Elections", 2020
 - Betul Bayrak - MS Thesis: "Evaluation of Graph Embedding-based Reasoning Over Knowledge Graphs", 2020
 - Hamza Haruna Mohammed - MS Thesis: “Multi-label classification of text document using deep
