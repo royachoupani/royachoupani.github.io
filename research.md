@@ -4,7 +4,7 @@ title: Research
 # subtitle: 
 ---
 
-### Artificial Intelligence and Machine Learning
+### <span style="color:magenta">Artificial Intelligence and Machine Learning</span>
 
 #### Courses
 - [CENG 466: Artificial Intelligence](http://ceng466.cankaya.edu.tr/)
