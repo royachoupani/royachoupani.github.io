@@ -34,6 +34,6 @@ the identity of the person”, 2019
 - Mustafa Nahedh Hasan Al-Janabi - MS Thesis: “Digital video stabilization using artificial neural
 networks”, 2019
 
-- <a href="http://ce-publications.et.tudelft.nl/publication/view/id/1615" target="_blank">PhD Thesis</a>
+- <a href="http://ce-publications.et.tudelft.nl/publication/view/id/1615" target="_blank">Roya Choupani, "Scalable Video Coding", PhD Thesis, TU Delft</a>
 
 <img src="/assets/img/book2017.jpg"/>
