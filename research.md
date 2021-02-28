@@ -33,3 +33,6 @@ the identity of the person”, 2019
 - Mohanad Ali Gashot - MS Thesis: “A comparative analysis of video summarization techniques”, 2019
 - Mustafa Nahedh Hasan Al-Janabi - MS Thesis: “Digital video stabilization using artificial neural
 networks”, 2019
+
+PhD Thesis
+<center><img src="/assets/img/book2017.jpg"/></center>
