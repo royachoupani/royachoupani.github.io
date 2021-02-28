@@ -34,5 +34,5 @@ the identity of the person”, 2019
 - Mustafa Nahedh Hasan Al-Janabi - MS Thesis: “Digital video stabilization using artificial neural
 networks”, 2019
 
-PhD Thesis
+- <a href="http://ce-publications.et.tudelft.nl/publication/view/id/1615" target="_blank">PhD Thesis</a>
 <center><img src="/assets/img/book2017.jpg"/></center>
