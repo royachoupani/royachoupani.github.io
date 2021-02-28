@@ -7,8 +7,8 @@ title: Research
 ### <span style="color:purple">Artificial Intelligence and Machine Learning</span>
 
 #### Courses
-- <a href="http://ceng466.cankaya.edu.tr/" target="_blank">[CENG 466: Artificial Intelligence]</a>
-- <a href="http://ceng621.cankaya.edu.tr/" target="_blank">[CENG 621: Machine Learning]</a>
+- <a href="http://ceng466.cankaya.edu.tr/" target="_blank">CENG 466: Artificial Intelligence</a>
+- <a href="http://ceng621.cankaya.edu.tr/" target="_blank">CENG 621: Machine Learning</a>
 
 #### MS Thesis Students Supervised
 - Baransel Saginda - MS Thesis</span>: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
@@ -22,7 +22,7 @@ learning”, 2019
 ### <span style="color:purple">Mulltimedia Computing</span>
 
 #### Courses
-- <a href="http://ceng460.cankaya.edu.tr/" target="_blank">[CENG 460: Introduction to Multimedia Computing]</a>
+- <a href="http://ceng460.cankaya.edu.tr/" target="_blank">CENG 460: Introduction to Multimedia Computing</a>
 
 #### MS Thesis Students Supervised
 - Mehmet Murat Erol - MS Thesis: “Temporal Video Segmentation”, 2019
