@@ -37,7 +37,7 @@ the identity of the person”, 2019
 - Inas Mudhere Raghib Kafi Al-Kamachy - MS Thesis: “Classification of diabetic retinopathy using pre-trained deep learning models”, 2019
 - Merve Duman - MS Thesis: “Automatic identification and measurement of antibiogram analysis”, 2019
 - Mohanad Ali Gashot - MS Thesis: “A comparative analysis of video summarization techniques”, 2019
-- Hama Haruna Mohammed - MS Thesis: “Multi-label classification of text document using deep
+- Hamza Haruna Mohammed - MS Thesis: “Multi-label classification of text document using deep
 learning”, 2019
 - Mustafa Nahedh Hasan Al-Janabi - MS Thesis: “Digital video stabilization using artificial neural
 networks”, 2019
