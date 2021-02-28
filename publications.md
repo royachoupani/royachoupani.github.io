@@ -5,6 +5,7 @@ title: Publications
 
 - <a href="https://scholar.google.com/citations?user=howN9EkAAAAJ&hl=en&oi=ao"  target="_blank">Google Scholar</a>
 - <a href="https://www.researchgate.net/profile/Roya_Choupani" target="_blank">ResearchGate</a>
+- <a href="http://ce-publications.et.tudelft.nl/author/view/id/63" target="_blank">TU Delft Publications Page</a>
 
 ### Journal Papers
 
