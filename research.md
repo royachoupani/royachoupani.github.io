@@ -35,4 +35,4 @@ the identity of the person”, 2019
 networks”, 2019
 
 - <a href="http://ce-publications.et.tudelft.nl/publication/view/id/1615" target="_blank">PhD Thesis</a>
-<center><img src="/assets/img/book2017.jpg"/></center>
+<img src="/assets/img/book2017.jpg"/>
