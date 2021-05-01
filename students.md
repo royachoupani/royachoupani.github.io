@@ -9,7 +9,6 @@ title: Students
 ### Current MS Students
 - Kutlu Erman Ozgil: Question answering using AI
 - Hatice Nazli Kus: Student performance prediction using machine learning
-- Yusuf Kursat Tuncel: Zero touch networking
 - Engin Tureli: Ontology-based product categorization using machine learning
 - Sedat Akel: Optimizing the Training Algorithms of Machine Learning using GAN Networks
 - Tarkan Eyerci: Product defect detection from reviews using machine learning
@@ -28,6 +27,7 @@ title: Students
 - [Skin Cancer Detection](https://mervetalakaci.github.io/app-Dermis/) (Elif, Merve, Ilayda, Deniz)
 
 ### Graduted MS Students
+- Yusuf Kursat Tuncel - Application Layer Packet Processing using PISA Switches, 2021
 - Baransel Saginda - MS Thesis: "Deep Learning Based Anomaly Detection on System Logs Using Time Differences", 2020
 - Selim Surucu - MS Thesis: "Measuring Political Polarization Using Big Data: The Case of Turkish Elections", 2020
 - Betul Bayrak - MS Thesis: "Evaluation of Graph Embedding-based Reasoning Over Knowledge Graphs", 2020
