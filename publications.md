@@ -9,12 +9,13 @@ title: Publications
 
 ### Journal Papers
 
-1.	Mohanad Gashot, Roya Choupani (2019), “Review of Video Summarization Techniques”, Romanian Journal of Information Science and Technology (submitted)
-2.	Mustafa Nahedh, Roya Choupani (2019) “Offline Video Stabilization Using Artificial Neural Network”, Gazi University Polytechnic Journal (submitted)
-3.	Mustafa Karasolak, Roya Choupani (2019), “[Face Photograph Recognition via Generation from Sketches using Convolutional Neural Networks](https://infonomics-society.org/wp-content/uploads/Face-Photograph-Recognition-via-Generation-from-Sketches.pdf)”, International Journal of Multimedia and Image Processing, 9(1):459-465, DOI: 10.20533/ijmip.2042.4647.2019.0057
-4.	Choupani, R., Wong, S., & Tolun, M. (2014). Multiple description coding for SNR scalable video transmission over unreliable networks. Multimedia Tools and Applications, 69(3), 843–858. (SCI)
-5.	Choupani, R., Wong, S., & Tolun, M. (2014). Spatial multiple description coding for scalable video streams. International Journal of Digital Multimedia Broadcasting, 2014.
-6.	Choupani, R., Wong, S., & Tolun, M. R. (2012). Unbalanced multiple description wavelet coding for scalable video transmission. Journal of Electronic Imaging, 21(4), 043006 (SCI)
+1.	Yusuf Kursat Tuncel, Kasim Oztoprak, Roya Choupani, Ismail Butun, Application Layer Packet Processing using PISA Switches, Elsevier Journal of Computer Networks (submitted)
+2.	Mohanad Gashot, Roya Choupani (2019), “Review of Video Summarization Techniques”, Romanian Journal of Information Science and Technology (submitted)
+3.	Mustafa Nahedh, Roya Choupani (2019) “Offline Video Stabilization Using Artificial Neural Network”, Gazi University Polytechnic Journal (submitted)
+4.	Mustafa Karasolak, Roya Choupani (2019), “[Face Photograph Recognition via Generation from Sketches using Convolutional Neural Networks](https://infonomics-society.org/wp-content/uploads/Face-Photograph-Recognition-via-Generation-from-Sketches.pdf)”, International Journal of Multimedia and Image Processing, 9(1):459-465, DOI: 10.20533/ijmip.2042.4647.2019.0057
+5.	Choupani, R., Wong, S., & Tolun, M. (2014). Multiple description coding for SNR scalable video transmission over unreliable networks. Multimedia Tools and Applications, 69(3), 843–858. (SCI)
+6.	Choupani, R., Wong, S., & Tolun, M. (2014). Spatial multiple description coding for scalable video streams. International Journal of Digital Multimedia Broadcasting, 2014.
+7.	Choupani, R., Wong, S., & Tolun, M. R. (2012). Unbalanced multiple description wavelet coding for scalable video transmission. Journal of Electronic Imaging, 21(4), 043006 (SCI)
 
 ### Conference Papers
 1.	Inas Al-Kamachy, Reza Hassanpour, Roya Choupani (2020), “Classification of Diabetic Retinopathy using Pre-Trained Deep Learning Models”, ICASSP 2020 (submitted)
