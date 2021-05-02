@@ -23,7 +23,7 @@ title: Students
 - [RouteFinder](https://github.com/CankayaUniversity/ceng-407-408-2018-2019-Route-Finder/wiki)  (İrfan Doğan BACAKSIZ, Gizem TEZER, Ebru GÜNDÜZ, Ali Cem KOÇ) (<span style="color:red">1st Place in Project Bazaar</span>) [Video](https://www.youtube.com/watch?v=FWSdPGgkG-4)
 - [Detection of Obstruction in Fundus Image](https://aykut-er.github.io) (Aykut Er, Egeberk Ozberk) [Video](https://www.youtube.com/watch?v=1s6V2zY2O9U)
 - [Content-based Video Segmentation](https://contentbasedvideosegmentation.wordpress.com) (Berk Can ÖZÜTEMİZ, Ece NALÇACI, Engin ÖZTÜRK)
-- [Autonomous Car](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Autonomous-Car/wiki) (Büşra Nur Bahadır, Zehra Kasap)
+- [Autonomous Car](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Autonomous-Car/wiki) (Büşra Nur Bahadır, Zehra Kasap) [Video](https://www.youtube.com/watch?v=yc5FXZfuQuo)
 - [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
 - [Spam SMS Detection](https://spamsmsdetection.wordpress.com) (Emre, Sarper, Muazzez, Berkcan)
 - [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com) (Busra, Zehra)
