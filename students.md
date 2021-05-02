@@ -15,9 +15,11 @@ title: Students
 - Hacer Dogan: Identifying and removing objects from video frames
 - Omer Sarikaya: Cryptocurrency price prediction
 
-### Current Undergraduate Project Students
+### Current Undergraduate Cap Stone Project Students
 - AirBnB Price Prediction (Melisa Yildiz, Selin Kaya, Rana Gurcu Deliomeroglu, Merve Karakaya)
 - Sentiment Analysis of the Feedback from Airplane Passengers (Merve, Irem)
+
+### Sample Undergraduate Cap Stone Projects
 - [RouteFinder](https://github.com/CankayaUniversity/ceng-407-408-2018-2019-Route-Finder/wiki) [Video](https://www.youtube.com/watch?v=FWSdPGgkG-4) (İrfan Doğan BACAKSIZ, Gizem TEZER, Ebru GÜNDÜZ, Ali Cem KOÇ) (<span style="color:red">1st Place in Project Bazaar</span>)
 - [Autonomous Car](https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Autonomous-Car/wiki) (Büşra Nur Bahadır, Zehra Kasap)
 - [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
