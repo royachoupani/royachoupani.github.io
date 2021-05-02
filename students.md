@@ -27,7 +27,7 @@ title: Students
 - [Brain Tumor Detection from MR Images Using Machine Learning](https://c1411055.wixsite.com/braintumordetection) (Kevser, Deniz, Nisan, Ece)
 - [Spam SMS Detection](https://spamsmsdetection.wordpress.com) (Emre, Sarper, Muazzez, Berkcan)
 - [Emergency Car Awareness in Autonomous Car Driving](https://acp317315180.wordpress.com) (Busra, Zehra)
-- [Cook Hub](https://cookhubb.wordpress.com) (Evrim, Batuhan, Tolga, Didem)
+- [Cook Hub](https://cookhubb.wordpress.com) (Evrim, Batuhan, Tolga, Didem) [Video](https://www.youtube.com/watch?v=eDQo-bOqI_g)
 - [AI Assisted Customer Support](https://cankayauniversity.github.io/ceng-407-408-2019-2020-AI-Customer-Support/) (Alperen, Cavid, Alp, Atakan)
 - [Rad.io](https://rad-io-app.github.io) (Talha, Mehmet, Omar, Berkay)
 - [Skin Cancer Detection](https://mervetalakaci.github.io/app-Dermis/) (Elif, Merve, Ilayda, Deniz)
