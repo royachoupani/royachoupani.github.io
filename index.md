@@ -12,6 +12,7 @@ I am an assistant professor of Computer Science at [Angelo State University](htt
 - Machine Learning
 - Artificial Intelligence
 - Database Systems
+- Cybersecurity
 
 <b>Contact:</b><br/>
 Angelo State University<br/>
