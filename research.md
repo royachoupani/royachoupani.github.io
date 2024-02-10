@@ -4,7 +4,7 @@ title: Research
 # subtitle: 
 ---
 
-### <span style="color:purple">AI and Cybersecurity,/span>
+### <span style="color:purple">AI and Cybersecurity</span>
 #### Courses
 - [CS 6318: Artificial Intelligence](https://angelo.campusconcourse.com/view_syllabus?course_id=8159)
 - [CS 6319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=8176)
