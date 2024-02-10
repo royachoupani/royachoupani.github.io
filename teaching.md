@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 # subtitle: 
 ---
+### Summer 2024
+- [CS 6310: Database Systems]()
+- [CS 6321: Deep Learning]()
+
 ### Spring 2024
 - [CS 4302: Operating Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=10668)
 - [CS 6320: Data Mining](https://angelo.campusconcourse.com/view_syllabus?course_id=10736)
@@ -18,7 +22,7 @@ title: Teaching
 - [CS 6319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=8176)
 
 ### Summer 2023
-- [CS 6310: Database Systems()
+- [CS 6310: Database Systems]()
 - [CS 6322: Image Processing]()
 
 ### Spring 2023
