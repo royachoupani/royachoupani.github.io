@@ -6,12 +6,12 @@ title: Research
 
 ### <span style="color:purple">AI and Cybersecurity</span>
 #### Courses
-- [CS 6318: Artificial Intelligence](https://angelo.campusconcourse.com/view_syllabus?course_id=8159), 2022
+- [CS 6318: Artificial Intelligence](https://angelo.campusconcourse.com/view_syllabus?course_id=8159)
 - [CS 6319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=8176)
 - [CS 6310: Database Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=8174)
 
 #### MS Thesis Students Supervised
-- [Jason S. Watson](https://www.angelo.edu/live/profiles/9481-jason-watson) - MS Thesis: "[Towards autonomous network security using knowledge graphs](https://asu-ir.tdl.org/items/6500c653-dc70-4930-ae4e-07fafd260a98)"
+- [Jason S. Watson](https://www.angelo.edu/live/profiles/9481-jason-watson) - MS Thesis: "[Towards autonomous network security using knowledge graphs](https://asu-ir.tdl.org/items/6500c653-dc70-4930-ae4e-07fafd260a98)", 2022
 
 ### <span style="color:purple">Artificial Intelligence and Machine Learning</span>
 
