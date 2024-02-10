@@ -35,7 +35,17 @@ title: Teaching
 - [CS 6310: Database Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=2865)
 - [CS 6318: Artificial Intelligence](https://angelo.campusconcourse.com/view_syllabus?course_id=2862)
 - [CS 6319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=2863)
- 
+
+### Spring 2022
+- [CS 4302: Operating Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=5370)
+- [CS 6322: Image Processing]()
+- [CS 6323: Multimedia Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=5389)
+
+### Fall 2021
+- [CS 3311: Database Management](https://angelo.campusconcourse.com/view_syllabus?course_id=2857)
+- [CS 6318: Artificial Intelligence](https://angelo.campusconcourse.com/view_syllabus?course_id=2862)
+- [CS 6319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=2863)
+
 ### Spring 2021
 - [CENG 621: Machine Learning](http://ceng621.cankaya.edu.tr/)
 - [CENG 356: Database Management Systems](http://ceng356.cankaya.edu.tr/)
