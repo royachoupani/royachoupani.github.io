@@ -4,11 +4,11 @@ title: Teaching
 # subtitle: 
 ---
 ### Fall 2025
-- [CS 3311: Database Systems]()
-- [CS 4319: Machine Learning]()
-- [CS 6310: Database Systems]()
-- [CS 6318: Artificial Intelligence]()
-- [CS 6319: Machine Learning]()
+- [CS 3311: Database Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=18347)
+- [CS 4319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=18361)
+- [CS 6310: Database Systems](https://angelo.campusconcourse.com/view_syllabus?course_id=18377)
+- [CS 6318: Artificial Intelligence](https://angelo.campusconcourse.com/view_syllabus?course_id=18383)
+- [CS 6319: Machine Learning](https://angelo.campusconcourse.com/view_syllabus?course_id=18384)
 
 ### Summer 2025
 - [CS 6321: Deep Learning]()
