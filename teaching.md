@@ -3,6 +3,28 @@ layout: page
 title: Teaching
 # subtitle: 
 ---
+### Fall 2025
+- [CS 3311: Database Systems]()
+- [CS 4319: Machine Learning]()
+- [CS 6310: Database Systems]()
+- [CS 6318: Artificial Intelligence]()
+- [CS 6319: Machine Learning]()
+
+### Summer 2025
+- [CS 6321: Deep Learning]()
+- [CS 6323: Multimedia Systems]()
+
+### Spring 2025
+- [CS 4302: Operating Systems]()
+- [CS 6320: Data Mining]()
+- [CS 6321: Image Processing]()
+
+### Fall 2024
+- [CS 3311: Database Systems]()
+- [CS 6310: Database Systems]()
+- [CS 6318: Artificial Intelligence]()
+- [CS 6319: Machine Learning]()
+
 ### Summer 2024
 - [CS 6310: Database Systems]()
 - [CS 6321: Deep Learning]()
